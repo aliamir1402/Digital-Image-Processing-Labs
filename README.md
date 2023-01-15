@@ -24,4 +24,8 @@ Topics: Image Sampling and Quantization
 These Labs were done using Python 3.10 on Google Colab and Spyder IDE in Anaconda. 
 Libraries used: Opencv as cv2, Pillow as PIL
 
+
+
+**During this Course of this Lab a Basic Python Course Was Also Completed.
+**
 ![Clipboard](https://user-images.githubusercontent.com/80505091/212537642-9cfa8c66-c157-4761-a6a8-962d15b2688b.jpg)
